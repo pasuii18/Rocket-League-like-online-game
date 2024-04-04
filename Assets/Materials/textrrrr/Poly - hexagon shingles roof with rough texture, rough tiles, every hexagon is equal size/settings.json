@@ -1,0 +1,23 @@
+{
+  "prompt_text": "hexagon shingles roof with rough texture, rough tiles, every hexagon is equal size",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/742afaf1-3886-4d60-bc94-a186df516988.png",
+    "patch_id": "2oBpmjDdqV"
+  },
+  "seamless_prompt_text": "hexagon shingles roof with rough texture, rough tiles, every hexagon is equal size",
+  "seamless_patch_scale": 0.93,
+  "upscale_prompt_text": "hexagon shingles roof with rough texture, rough tiles, every hexagon is equal size",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "diverse",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
