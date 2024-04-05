@@ -33,6 +33,6 @@ I tried to make Rocket League and this is what i got =)
 
 ![Winners](https://github.com/pasuii18/Rocket-League-like-online-game/blob/master/Screenshots/Winners.png)
 
-<h1 align="center">=)</a> 
+<h1 align="center">jk =)</a> 
 
 ![DesignIsMyCalling](https://github.com/pasuii18/Rocket-League-like-online-game/blob/master/Screenshots/DesignIsMyCalling.png)
